@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am **Evangelos Georgosoulis**, a Computer Science & Telecommunications student in the University of Thessaly, Greece. I have an interest in Software Engineering and Cybersecurity, and i enjoy building small projects, experimenting with automation, and exploring new technologies in my spare time.
+
+---
+
+## Skills & Interests
+
+- **Languages**: Python, C
+- **Web**: HTML, CSS, JavaScript, Node, Express *(currently exploring through a full-stack seminar)*
+- **Tools**: Git , Bash, Github
+
+---
+
+## Connect with me
+
+Feel free to reach out or connect with me on [Linkedin](https://www.linkedin.com/in/evangelos-georgosoulis/).
