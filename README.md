@@ -23,6 +23,7 @@ I am **Evangelos Georgosoulis**, a Computer Science & Telecommunications student
 - **Languages**: Python, C
 - **Web**: HTML, CSS, JavaScript, Node, Express *(currently exploring through a full-stack seminar)*
 - **Tools**: Git , Bash, Github
+- **Cybersecurity**: Currently learning and practising through platforms like *Hack The Box* & *Try Hack Me*
 
 ---
 
