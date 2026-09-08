@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-I am **Evangelos Georgosoulis**, a Computer Science & Telecommunications graduate from the University of Thessaly, Greece. I have an interest in Software Engineering and Cybersecurity. I enjoy building small projects, experimenting with automation and exploring new technologies in my spare time.
+I am **Evangelos Georgosoulis**, a Computer Science & Telecommunications graduate from the University of Thessaly, Greece.
+I'm interested in Software Development, Data Engineering and Cybersecurity. I enjoy building projects, learning new technologies and exploring how software works from both development and security perspectives.
 
 ---
 
 ## Skills & Interests
 
-- **Languages**: Python, C
-- **Databases**: SQL (MySQL)
-- **Web**: HTML, CSS, JavaScript, Node.js, Express
-- **Tools**: Git, GitHub, Bash
-- **Cybersecurity**: Currently learning and practising through platforms like *Hack The Box* & *TryHackMe*
+- **Languages**: Python, C, JavaScript
+- **Databases**: SQL, MySQL, PostgreSQL
+- **Web**: HTML, CSS, Node.js, Express
+- **Tools**: Git, GitHub, Bash, Linux
+- **Cybersecurity**: Currently learning and practicing with platforms like *Hack The Box* & *TryHackMe*
 
 ---
 
